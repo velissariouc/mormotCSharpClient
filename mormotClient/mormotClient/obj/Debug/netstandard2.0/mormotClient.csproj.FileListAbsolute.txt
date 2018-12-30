@@ -1,0 +1,12 @@
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\bin\Debug\netstandard2.0\mormotClient.deps.json
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\bin\Debug\netstandard2.0\mormotClient.dll
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\bin\Debug\netstandard2.0\mormotClient.pdb
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\obj\Debug\netstandard2.0\mormotClient.csprojAssemblyReference.cache
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\obj\Debug\netstandard2.0\mormotClient.csproj.CoreCompileInputs.cache
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\obj\Debug\netstandard2.0\mormotClient.AssemblyInfoInputs.cache
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\obj\Debug\netstandard2.0\mormotClient.AssemblyInfo.cs
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\obj\Debug\netstandard2.0\mormotClient.dll
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\obj\Debug\netstandard2.0\mormotClient.pdb
+C:\REPO_2018\mormotCSharpClient\mormotClient\mormotClient\mormotClient\obj\Debug\netstandard2.0\XamlC.stamp
